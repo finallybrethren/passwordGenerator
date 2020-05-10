@@ -6,7 +6,7 @@ from pyfiglet import Figlet
 subprocess.run(["clear"])
 t = time.sleep
 s = string
-f = Figlet(font='tty')
+f = Figlet(font='small')
 print(f.renderText('PASSWORD GENERATOR'))
 #title = ['passkey generator',
 #         'Passkey generator',
