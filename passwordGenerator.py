@@ -1,11 +1,8 @@
 import random
 import time
-import sys
-import os
 import string
-import getpass
-from pyfiglet import Figlet
 import subprocess
+from pyfiglet import Figlet
 subprocess.run(["clear"])
 t = time.sleep
 s = string
